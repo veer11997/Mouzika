@@ -1,0 +1,2 @@
+class NosongSelectedError(Exception):
+    pass
